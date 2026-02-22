@@ -1,10 +1,10 @@
-# 🚀 csv_to_mysql_loader
+# csv_to_mysql_loader
 
 A Python automation tool designed to load structured CSV data into a MySQL database efficiently and safely.
 
 This project demonstrates practical backend support skills and workflow automation commonly used in IT teams.
 
-## 📌 Overview
+##  Overview
 
 `csv_to_mysql_loader` automates the process of:
 
@@ -17,9 +17,7 @@ This project demonstrates practical backend support skills and workflow automati
 
 This tool reflects real-world technical assistant responsibilities in backend and data-support environments.
 
-## 🧠 What This Project Demonstrates
-
-On GitHub, this project highlights:
+## What This Project Demonstrates
 
 - ✅ Database integration (MySQL)
 - ✅ Error handling and transaction control
@@ -31,14 +29,14 @@ On GitHub, this project highlights:
 
 This is not just a script — it represents backend process automation and technical team support.
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- Python 3
+- Python 3.9.6
 - MySQL
 - mysql-connector-python
-- CSV (built-in Python module)
+- CSV 
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 csv_to_mysql_loader/
@@ -50,7 +48,7 @@ csv_to_mysql_loader/
 └── README.md
 ```
 
-## ⚙ Installation
+## Installation
 
 1. Clone the repository
 2. Install dependencies:
@@ -67,7 +65,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🎯 Use Case
+## Use Case
 
 This project simulates a real IT team task where structured data needs to be:
 
