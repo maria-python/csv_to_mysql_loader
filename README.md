@@ -76,10 +76,17 @@ This project simulates a real IT team task where structured data needs to be:
 
 It reflects the type of automation and backend support work performed by a Technical Assistant in development environments.
 
-## 💼 Positioning
+## The Author
 
-This project supports my role as a:
+Mariia Ilnitska
 
-**Tech Assistant with Python Automation**
+Junior Python Automation / Tech Assistant
 
-Focused on backend support, process optimization, and data workflow automation.
+## ✉️ Contacts
+
+Gmail: maria.ladesigner@gmail.com
+
+LinkedIn: www.linkedin.com/in/maria-ilnitska
+
+Telegram: @mariailnitska
+
